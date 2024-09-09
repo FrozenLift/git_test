@@ -1,0 +1,10 @@
+git --version
+git clone git@github.com:FrozenLift/git_test.git (SSH)
+git remote -v = prints output with username
+git push
+git add .
+git commit -m "message describing what you have done to make this snapshot different"
+
+git status
+git log
+
